@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tarokhmohammadi/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/tarokhmohammadi/static/js/main.1cd135ad.chunk.js",
+    "main.js.map": "/tarokhmohammadi/static/js/main.1cd135ad.chunk.js.map",
+    "runtime-main.js": "/tarokhmohammadi/static/js/runtime-main.d1a2199f.js",
+    "runtime-main.js.map": "/tarokhmohammadi/static/js/runtime-main.d1a2199f.js.map",
+    "static/js/2.17863d98.chunk.js": "/tarokhmohammadi/static/js/2.17863d98.chunk.js",
+    "static/js/2.17863d98.chunk.js.map": "/tarokhmohammadi/static/js/2.17863d98.chunk.js.map",
+    "static/js/3.32e50d6d.chunk.js": "/tarokhmohammadi/static/js/3.32e50d6d.chunk.js",
+    "static/js/3.32e50d6d.chunk.js.map": "/tarokhmohammadi/static/js/3.32e50d6d.chunk.js.map",
+    "index.html": "/tarokhmohammadi/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/tarokhmohammadi/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.17863d98.chunk.js.LICENSE.txt": "/tarokhmohammadi/static/js/2.17863d98.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/tarokhmohammadi/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1a2199f.js",
+    "static/js/2.17863d98.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.1cd135ad.chunk.js"
+  ]
+}
